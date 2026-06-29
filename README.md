@@ -1,1 +1,1 @@
-ez asf just make dataset then train then use dont forget to star thanks.
+uses nocaptchaai.com free api to prepair dataset then train local model for personal use
